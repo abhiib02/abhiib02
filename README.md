@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @abhiib02
 - 👀 I’m interested in Web Designing and Development
-- 🌱 I’m currently learning Svelte
 - 📫 How to reach me   Email 📧 Abhiib02@gmail.com
 
 <!---
